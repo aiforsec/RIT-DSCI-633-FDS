@@ -53,14 +53,15 @@ There is no need to buy the book, and they're for reference only. The lecture sl
 
 
 **Late work policy**:
-- Each student will have the option of turning in 2 late assignments, where late cannot be more than 48 hours from the end time of the original submission. 0 Credit will be given after that. This policy can be availed for any assignment (and only assignments, not for projects, assessments, mid-terms, etc.)For example, Assignment 2 is due on 08/24 at 7:59 a.m. StudentABC decides to use this policy and submits their assignment late. If the submission is made by 08/26 at 7:59 a.m., they are not penalized and are graded as usual. If StudentABC ends up submitting it on 08/26 at 8 a.m. or after, they get 0 credit for this submission.
-
-Exceptions: Under extraordinary circumstances involving self, a friend, or a family member. Highly creative excuses will be given a few minutes of attention and nothing further.
+- 0-24 hours late submission: 50% of the assigned score
+- 24-48 hours late submission: 25% of the assigned score
+- more than 48 hours: 0 for the submission.
+- Exceptions: Under extraordinary circumstances involving self, a friend, or a family member. Highly creative excuses will be given a few minutes of attention and nothing further.
 
 **Resolving course-related issues**: The students should post them on the Slack channel and not be shy about it. If you send me or the TA a Qs privately, we will respond only on the channel.
 
 **Academic Integrity**
-Please do not copy from one another; you're doing yourself a great deal of disservice and losing precious time to build a skillset. Refer to this [link](https://www.rit.edu/twc/academicintegrity/) to learn about RIT's policy for Academic Integrity.
+Do not copy from one another or from any AI chatbot (ChatGPT, Bard, etc.) for homework or project submissions. You're doing yourself a great deal of disservice and losing precious time to build a skillset. Refer to this [link](https://www.rit.edu/twc/academicintegrity/) to learn about RIT's policy for Academic Integrity. AI Chatbot policy is TBD.
 
 **Accommodations for students with disabilities**: 
 Please discuss a requirement for any accommodation due to a disability early in the semester.  You will require an accommodations letter from the Disability Resources office before you reach out to me. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at dso@rit.edu.
