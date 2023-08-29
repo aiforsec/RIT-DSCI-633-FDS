@@ -47,11 +47,9 @@ There is no need to buy the book, and they're for reference only. The lecture sl
 
 |Activity| % Distribution |
 |--|--|
-|Homework| 40% |
-|Class Assessments (2)| 10% |
-|Mid-Term| 15% |
-|Final Exam| 15% |
-|Project| 20% |
+|Homeworks| 50% |
+|Individual Project| 30% |
+|Attendance| 20% |
 
 
 **Late work policy**:
