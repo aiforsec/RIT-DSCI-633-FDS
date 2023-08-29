@@ -43,7 +43,7 @@ The course uses **GitHub** for assignment submission and **Slack** for discussio
 
 There is no need to buy the book, and they're for reference only. The lecture slides links should cover all the material you need to do well in the class. I am open to feedback if you need more detailed content or a different course presentation format.
 
-**Grading**: Evaluation will be based on the following distribution. Grades will follow the RIT Grading Scale (Link TBD): 
+**Grading**: Evaluation will be based on the following distribution. Grades will follow the [RIT Grading Scale](https://www.se.rit.edu/resources/includes/LetterGrading.html): 
 
 |Activity| % Distribution |
 |--|--|
