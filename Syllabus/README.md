@@ -2,7 +2,7 @@
 # DSCI-633: Foundations of Data Science & Analytics
 Course taught in Fall'23.
 
-Previous version of the Syllabus is available [here](https://raw.githubusercontent.com/aiforsec/RIT-DSCI-633-FDS/main/Syllabus/README-2022-deprecated.md?token=GHSAT0AAAAAACGFAZLWOPHC2WKC4EELZ7YCZHP4RBA). Note: Slides from previous cohorts should be used at ones' own risk.
+Previous version of the Syllabus is available [here](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/README-2022-deprecated.md). Note: Slides from previous cohorts should be used at ones' own risk.
 
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 
@@ -11,10 +11,10 @@ Previous version of the Syllabus is available [here](https://raw.githubuserconte
 | Date | Topic | Reading Material| Homework | Due Date|
 |-------|----------|---------------|-----------|----------|
 | 08/29 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
-| 08/31 |[Introduction to Data Science. ](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) [Class Recording](https://rit.zoom.us/rec/share/iljfDog1m0bnvH7ZxanJIqPdjXdZPYtCws0DYmxE1P0BrdiKH1r3sWfDDVNBjcsl.ZYSUPn8DSjqYHUjK)| [GBC] Chap 2,3| <=70% Python Exercise | n/a |
-| 09/05 |[Basics of Machine Learning, Classification: Naive Bayes](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx) & 15 min. speed test for python | [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | HW 1,[Solution](https://colab.research.google.com/drive/1sAPjMtF9BJP2TRvYZgm6mg1EQfV8G219?usp=sharing) | 09/06 7:59am |
-|09/07|[Measuring Model Performance](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx)|[AG] Chap 2,3|[Class](https://colab.research.google.com/drive/1DRDR0qvGjU4m3qyFNTxbMaxge3-RzpzQ#scrollTo=it3BBXAQKbG8)||
-|09/12|[Classification: Regularized Linear Model](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx)|[AG] Chap 4 |HW 2, [Solution](https://colab.research.google.com/drive/1VAxZswwM9ZUWnGPG8r29P0kstJblmlK-?usp=sharing) | 09/15 11:59 pm |
+| 08/31 |[Introduction to Data Science. ](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) [Class Recording](https://rit.zoom.us/rec/share/iljfDog1m0bnvH7ZxanJIqPdjXdZPYtCws0DYmxE1P0BrdiKH1r3sWfDDVNBjcsl.ZYSUPn8DSjqYHUjK)| [GBC] Chap 2,3| | n/a |
+| 09/05 |Basics of Machine Learning, Classification: Naive Bayes| [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | | |
+|09/07|Measuring Model Performance|[AG] Chap 2,3| | |
+|09/12|Classification: Regularized Linear Model|[AG] Chap 4 | | |
 | 09/14 | [Gradient Descent](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx),[Classification: Logistic Regression](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) | [AG] Chap 4 |  |  |
 | 09/19 | [Classification: Decision Trees](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture06/Lec06.pptx) | [AG] Chap 5,6 | <!---[Assignment 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Assignments/DSCI_633_Assignment_02.ipynb)-->|  |
 | 09/21 | <!--[Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing) Ensemble Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx), [In-class practice Exercise](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook),--> Class Assessment -1 |All lectures & HWs| | |
