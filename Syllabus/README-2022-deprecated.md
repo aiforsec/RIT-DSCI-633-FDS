@@ -2,8 +2,6 @@
 # DSCI-633: Foundations of Data Science & Analytics
 Course taught in Fall'23.
 
-Previous version of the Syllabus is available [here](https://raw.githubusercontent.com/aiforsec/RIT-DSCI-633-FDS/main/Syllabus/README-2021-deprecated.md?token=GHSAT0AAAAAACGFAZLWUY77CI3WRQV4UGFIZHP4C7A). Note: We will not guarantee that the same slides will be used for the 2023 cohort.
-
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 
 *The Schedule is tentative and can change as we make progress in the class. The Instructor will make all attempts to keep it updated.
