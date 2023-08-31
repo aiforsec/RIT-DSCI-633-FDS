@@ -2,7 +2,7 @@
 # DSCI-633: Foundations of Data Science & Analytics
 Course taught in Fall'23.
 
-Previous version of the Syllabus is available [here](https://raw.githubusercontent.com/aiforsec/RIT-DSCI-633-FDS/main/Syllabus/README-2021-deprecated.md?token=GHSAT0AAAAAACGFAZLWUY77CI3WRQV4UGFIZHP4C7A). Note: We will not guarantee that the same slides will be used for the 2023 cohort.
+Previous version of the Syllabus is available [here](https://raw.githubusercontent.com/aiforsec/RIT-DSCI-633-FDS/main/Syllabus/README-2022-deprecated.md?token=GHSAT0AAAAAACGFAZLWOPHC2WKC4EELZ7YCZHP4RBA). Note: Slides from previous cohorts should be used at ones' own risk.
 
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 
@@ -38,9 +38,8 @@ Previous version of the Syllabus is available [here](https://raw.githubuserconte
 | 11/09 | [Training DNNs- 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture19/Lec19DNN2.pptx) | [AG] Chap 11| | |
 | 11/14 | [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture20/Lec20TF.pptx), [Coding](https://github.com/ageron/handson-ml3/blob/main/13_loading_and_preprocessing_data.ipynb)| [AG] Chap 12,13 |   |  |
 | 11/16 | [Training CNNs](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21CNN), [Coding](https://colab.research.google.com/drive/14qTxrNiXzxEghCMQYVsk2ylXr4IdyvTS?usp=sharing)| [AG] Chap 14 |  | | 
-| 11/21 | No Lecture (Thanksgiving Holiday)|  | | |
-| 11/28 | Project Presentation| All Groups| |  |
-| 11/30 | Final Exam, In Class| Everything from the course |  | |
-| 12/05 | TBD |  | | |
-| 12/07 | TBD - Last Class |  | | |
+| 11/21 | No Lecture (Thanksgiving Holiday)| | | |
+| 11/28 | Project Presentation| 8 students| | |
+| 11/30 | Project Presentation| 8 students| | |
+| 12/05 | Project Presentation| 8 students| | |
 | 12/22 | Final Grades Due | |  | |
