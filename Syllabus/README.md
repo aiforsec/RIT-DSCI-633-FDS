@@ -8,17 +8,17 @@ Previous version of the Syllabus is available [here](https://github.com/aiforsec
 
 *The Schedule is tentative and can change as we make progress in the class. The Instructor will make all attempts to keep it updated.
 ## Course Material
-| Date | Topic | Reading Material| Homework | Due Date|
+| Date | Topic | Reading Material| Notes | Class Recording|
 |-------|----------|---------------|-----------|----------|
 | 08/29 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
-| 08/31 |[Introduction to Data Science. ](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) [Class Recording](https://rit.zoom.us/rec/share/iljfDog1m0bnvH7ZxanJIqPdjXdZPYtCws0DYmxE1P0BrdiKH1r3sWfDDVNBjcsl.ZYSUPn8DSjqYHUjK)| [GBC] Chap 2,3| | n/a |
+| 08/31 |[Introduction to Data Science. ](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | [GBC] Chap 2,3| | [Link](https://rit.zoom.us/rec/share/iljfDog1m0bnvH7ZxanJIqPdjXdZPYtCws0DYmxE1P0BrdiKH1r3sWfDDVNBjcsl.ZYSUPn8DSjqYHUjK) |
 | 09/05 |Basics of Machine Learning, Classification: Naive Bayes| [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | | |
 | 09/07 |Measuring Model Performance|[AG] Chap 2,3| | |
-| 09/12 |Classification: Regularized Linear Model|[AG] Chap 4 | (Remote) | |
-| 09/14 | Gradient Descent | [AG] Chap 4 | (Remote) |  |
+| 09/12 |Classification: Regularized Linear Model|[AG] Chap 4 | (Remote Class) | |
+| 09/14 | Gradient Descent | [AG] Chap 4 | (Remote Class) |  |
 | 09/19-09/21 | Classification: Decision Trees | [AG] Chap 5,6 | | |
-| 09/26 | Classification: SVM| [AG] Chap 9 | (Remote) |  |
-| 09/28 | Classification: Nearest Neighbors| [AG] Chap 7 | (Tentatively Remote)| |
+| 09/26 | Classification: SVM| [AG] Chap 9 | (Remote Class) |  |
+| 09/28 | Classification: Nearest Neighbors| [AG] Chap 7 | (Tentatively Remote Class)| |
 | 10/03 | Classification: Ensemble Learning| [AG] Chap 7,9 | |  |
 | 10/05 | Clustering: K-Means|[AG] Chap 9 |  | |
 | 10/10 | No Lecture (Fall Break- No Classes) | |  | |
