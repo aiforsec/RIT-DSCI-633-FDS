@@ -12,7 +12,7 @@ Previous version of the Syllabus is available [here](https://github.com/aiforsec
 |-------|----------|---------------|-----------|----------|
 | 08/29 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
 | 08/31 |[Introduction to Data Science. ](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | [GBC] Chap 2,3| | [Link](https://rit.zoom.us/rec/share/iljfDog1m0bnvH7ZxanJIqPdjXdZPYtCws0DYmxE1P0BrdiKH1r3sWfDDVNBjcsl.ZYSUPn8DSjqYHUjK) |
-| 09/05 |[Basics of Machine Learning]((https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx)), Classification: Naive Bayes| [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | |[Link](https://rit.zoom.us/rec/share/bzPhOXUafxG_D047OoxAbka6WQJCqxzijlvexwPEdSZhHZHNWE36BVem3ojYoCXg.yZgiu0N_bs7oqgG5) |
+| 09/05 |[Basics of Machine Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx), Classification: Naive Bayes| [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | |[Link](https://rit.zoom.us/rec/share/bzPhOXUafxG_D047OoxAbka6WQJCqxzijlvexwPEdSZhHZHNWE36BVem3ojYoCXg.yZgiu0N_bs7oqgG5) |
 | 09/07 |Measuring Model Performance|[AG] Chap 2,3| | |
 | 09/12 |Classification: Regularized Linear Model|[AG] Chap 4 | (Remote Class) | |
 | 09/14 | Gradient Descent | [AG] Chap 4 | (Remote Class) |  |
