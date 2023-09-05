@@ -36,7 +36,7 @@ Knowledge of **Python** and **Github** is required.  An excellent primer for Pyt
 The course uses **GitHub** for assignment submission and **Slack** for discussions and questions. I will post slides, assignments, and any recorded videos here.
 
 **Textbook**:
-- [AG]"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition" by Aurélien Géron (2019), [Link to e-Book](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/HandsOnML-2ndEd.pdf) and [Github Repo]()
+- [AG]"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition" by Aurélien Géron (2019), [Link to e-Book](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/HandsOnML-2ndEd.pdf) and [Github Repo](https://github.com/ageron/handson-ml2). A more recent one, but does not match the book edition is [here](https://github.com/ageron/handson-ml3).
 - [GBC]"Deep Learning," by Ian Goodfellow, Yoshua Bengio, and Aaron Courville [Link to e-book](https://www.deeplearningbook.org/)
 - [CB]"Pattern Recognition and Machine Learning," by Christopher M. Bishop, [Link to e-Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [FE] "Feature Engineering for Machine Learning - Principles and Techniques for Data Scientists" [Link to e-book](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
