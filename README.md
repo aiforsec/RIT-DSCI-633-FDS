@@ -7,11 +7,11 @@
 ## Class Schedule
 - Course taught in Fall'23.
 - Every Tuesday and Thursday: 8:00 AM - 9:15 AM EST
-- In-Person, classes recorded.
+- In-person, classes recorded.
 
 ## Office Hours
 
-- Teaching Assistant, Bharadwaj Sharma Kasturi's Office Hours: TBD. For any questions, contact via Email: bk5953(AT)g(DOT)rit(DOT)edu. Or Slack.
+- Teaching Assistant, Bharadwaj Sharma Kasturi's Office Hours: Tues 9:30 AM-10:30 AM and Thurs 9:30 AM-10:30 AM. For any questions, contact via Email: bk5953(AT)g(DOT)rit(DOT)edu. Or Slack.
 - Nidhi's Office Hours: Right after class on Tuesday/Thursday _until_ 9:45 am (Best Time). OR by appointment. Email: nidhi(DOT)rastogi(AT)rit(DOT)edu. Or Slack.
 
 ## Course Description
