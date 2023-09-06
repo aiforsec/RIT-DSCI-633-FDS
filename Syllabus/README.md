@@ -1,8 +1,6 @@
 
 # DSCI-633: Foundations of Data Science & Analytics
-Course taught in Fall'23.
-
-Previous version of the Syllabus is available [here](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/README-2022-deprecated.md). Note: Slides from previous cohorts should be used at ones' own risk.
+Course taught in Fall '23.
 
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 
@@ -12,7 +10,7 @@ Previous version of the Syllabus is available [here](https://github.com/aiforsec
 |-------|----------|---------------|-----------|----------|
 | 08/29 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
 | 08/31 |[Introduction to Data Science. ](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | [GBC] Chap 2,3| | [Link](https://rit.zoom.us/rec/share/iljfDog1m0bnvH7ZxanJIqPdjXdZPYtCws0DYmxE1P0BrdiKH1r3sWfDDVNBjcsl.ZYSUPn8DSjqYHUjK) |
-| 09/05 |[Basics of Machine Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx), Classification: Naive Bayes, Simple Linear Model| [AG] Chap 1,2,4 [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)| |[Link 1](https://rit.zoom.us/rec/share/bzPhOXUafxG_D047OoxAbka6WQJCqxzijlvexwPEdSZhHZHNWE36BVem3ojYoCXg.yZgiu0N_bs7oqgG5), [Link 2](https://rit.zoom.us/rec/share/k_VIXx5hMJh8P-HS5uQzXO_gIoBwRMDrJoCR-D-qCqxoQk7PqNDYuJoiUsr2uG1W.t1JbNPBySdWr-9h3) |
+| 09/05 |[Basics of Machine Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx), Classification: Naive Bayes, Simple Linear Model| [AG] Chap 1,2,4 [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)| HW 1 announced on mycourses. Due Date 09/11 11:59 pm |[Link 1](https://rit.zoom.us/rec/share/bzPhOXUafxG_D047OoxAbka6WQJCqxzijlvexwPEdSZhHZHNWE36BVem3ojYoCXg.yZgiu0N_bs7oqgG5), [Link 2](https://rit.zoom.us/rec/share/k_VIXx5hMJh8P-HS5uQzXO_gIoBwRMDrJoCR-D-qCqxoQk7PqNDYuJoiUsr2uG1W.t1JbNPBySdWr-9h3) |
 | 09/07 |Measuring Model Performance|[AG] Chap 2,3,4| | |
 | 09/12 |Classification: Regularized Linear Model|[AG] Chap 4 | (Remote Class) | |
 | 09/14 | Gradient Descent | [AG] Chap 4 | (Remote Class) |  |
