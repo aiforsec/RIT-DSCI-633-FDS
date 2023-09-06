@@ -7,11 +7,11 @@
 ## Class Schedule
 - Course taught in Fall'23.
 - Every Tuesday and Thursday: 8:00 AM - 9:15 AM EST
-- In-person, classes recorded.
+- In-person classes recorded.
 
 ## Office Hours
 
-- Teaching Assistant, Bharadwaj Sharma Kasturi's Office Hours: Tues 9:30 AM-10:30 AM and Thurs 9:30 AM-10:30 AM. For any questions, contact via Email: bk5953(AT)g(DOT)rit(DOT)edu. Or Slack.
+- Teaching Assistant, Bharadwaj Sharma Kasturi's Office Hours: Tues 9:30 AM-10:30 AM and Thurs 9:30 AM-10:30 AM. For any questions, contact via Email: bk5953(AT)g(DOT)rit(DOT)edu. Or Slack. Join via Zoom: https://rit.zoom.us/j/94233732942 or meet in person at the Wallace Library.
 - Nidhi's Office Hours: Right after class on Tuesday/Thursday _until_ 9:45 am (Best Time). OR by appointment. Email: nidhi(DOT)rastogi(AT)rit(DOT)edu. Or Slack.
 
 ## Course Description
@@ -24,7 +24,7 @@ At the end of this course, students should be able to accomplish the following l
  2. Develop critical, entry-level skill sets required to solve real-world problems that utilize machine learning.
 
 ## Prerequisites
-Knowledge of **Python** and **Github** is required.  An excellent primer for Python can be found [here](https://github.com/Akuli/python-tutorial). A quick and dirty intro to Github can be found [here.](https://guides.github.com/activities/hello-world/). I have not used it, but this comes highly recommended - [python programming](https://developers.google.com/edu/python/Together). They should help you get up to speed with what is needed for this course.
+Knowledge of **Python** and **Github** is required.  An excellent primer for Python can be found [here](https://github.com/Akuli/python-tutorial). A quick and dirty intro to Github can be found [here.](https://guides.github.com/activities/hello-world/). These resources should help you get up to speed with what is needed for this course.
 
 ## Time Management
 |Activity| Expected Time(hrs/wk) |
