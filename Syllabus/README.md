@@ -14,7 +14,7 @@ Course taught in Fall '23.
 | 09/07 |Measuring Model Performance-1 |[AG] Chap 2,3,4| |[Link 1](https://rit.zoom.us/rec/share/szFmB9o20ZnKUVm1mezY9Fb-J3Ct-3FsEh0_Id4oUxLSu-OR6gaChjdu2nfi-3K2.lV7R5pVGCNqsI_rV)|
 | 09/12 |Measuring Model Performance-2 |[AG] Chap 2,3,4| |[Link 1](https://rit.zoom.us/rec/share/qyfVLmAHpZpQ7HjwDcIWDmDH75H1vSWQd5TWbuMYPMMUFMDCcu-T2M2V8DhLhmoY.NsRMHmf_KPEtWtSX)|
 | 09/14 |Classification: Regularized Linear Model|[AG] Chap 4 | (Remote Class) | 
-|  | Gradient Descent | [AG] Chap 4 | (Remote Class) |  |
+|  | Gradient Descent | [AG] Chap 4 |  |  |
 |  | Classification: Decision Trees | [AG] Chap 5,6 | | |
 |  | Classification: SVM| [AG] Chap 9 | (Remote Class) |  |
 |  | Classification: Nearest Neighbors| [AG] Chap 7 | (Tentatively Remote Class)| |
