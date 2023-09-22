@@ -15,7 +15,7 @@ Course taught in Fall '23.
 | 09/12 | Measuring Model Performance-2 |[AG] Chap 4| |[Link 1](https://rit.zoom.us/rec/share/qyfVLmAHpZpQ7HjwDcIWDmDH75H1vSWQd5TWbuMYPMMUFMDCcu-T2M2V8DhLhmoY.NsRMHmf_KPEtWtSX)|
 | 09/14 | Walkthrough HW 1 logic+code | | | [Link 1](https://rit.zoom.us/rec/share/fPhavA0WX21N1j5WjqeULuqUjjUQZcD6q5kXigA4SiOLZsN1RO6YZvgu8yZHYIiq.es1DHf8XY6h_ISO0)|
 | 09/19 | [Measuring Model Performance]((https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx)) - Walkthrough code+ Class Exercise, Gradient Descent |[AG] Chap 4 | |[Link1](https://rit.zoom.us/rec/share/pIkF8PT60n4le3paGz-3MhaJPRHst5UrzyfFLC-s7m4cWPvcvWvXwdTIYA-5Xpkm.gTkWSzZO67BEk_Ss?startTime=1695124960000), [Link 2](https://rit.zoom.us/rec/share/pIkF8PT60n4le3paGz-3MhaJPRHst5UrzyfFLC-s7m4cWPvcvWvXwdTIYA-5Xpkm.gTkWSzZO67BEk_Ss?startTime=1695125865000) | 
-| 09/21 | [Gradient Descent](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx), Classification: Regularized Linear Model|[AG] Chap 4 |  |
+| 09/21 | [Gradient Descent](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx), Classification: Regularized Linear Model|[AG] Chap 4 |  |[Link](https://rit.zoom.us/rec/share/k4iaKg0SAl6S5u5zbEPrknZaG35CQJ2SATAAhwF9TyuTY9x3GwGtl5-YZggQuINn.9F78q9RmTdzngzsy) |
 |  | Classification: Decision Trees | [AG] Chap 5,6 | | |
 |  | Classification: SVM| [AG] Chap 9 | (Remote Class) |  |
 |  | Classification: Nearest Neighbors| [AG] Chap 7 | (Tentatively Remote Class)| |
