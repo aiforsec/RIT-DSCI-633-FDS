@@ -18,7 +18,7 @@ Course taught in Fall '23.
 | 09/21 | [Gradient Descent](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx)|[AG] Chap 4 |  |[Link](https://rit.zoom.us/rec/share/k4iaKg0SAl6S5u5zbEPrknZaG35CQJ2SATAAhwF9TyuTY9x3GwGtl5-YZggQuINn.9F78q9RmTdzngzsy) |
 | 09/26 | Classification: Regularized Linear Model, Decision Trees | [AG] Chap 5,6 |(Remote Class) | |
 |  | Classification: SVM| [AG] Chap 9 |  |  |
-|  | Classification: Nearest Neighbors| [AG] Chap 7 | (Tentatively Remote Class)| |
+|  | Classification: Nearest Neighbors| [AG] Chap 7 | | |
 |  | Classification: Ensemble Learning| [AG] Chap 7,9 | |  |
 |  | Clustering: K-Means|[AG] Chap 9 |  | |
 | 10/10 | No Lecture (Fall Break- No Classes) | |  | |
