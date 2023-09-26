@@ -17,6 +17,7 @@ Course taught in Fall '23.
 | 09/19 | [Measuring Model Performance]((https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx)) - Walkthrough code+ Class Exercise, Gradient Descent |[AG] Chap 4 | |[Link1](https://rit.zoom.us/rec/share/pIkF8PT60n4le3paGz-3MhaJPRHst5UrzyfFLC-s7m4cWPvcvWvXwdTIYA-5Xpkm.gTkWSzZO67BEk_Ss?startTime=1695124960000), [Link 2](https://rit.zoom.us/rec/share/pIkF8PT60n4le3paGz-3MhaJPRHst5UrzyfFLC-s7m4cWPvcvWvXwdTIYA-5Xpkm.gTkWSzZO67BEk_Ss?startTime=1695125865000) | 
 | 09/21 | [Gradient Descent](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx)|[AG] Chap 4 |HW 2 announced on mycourses. Due Date 10/04 11:59 pm  |[Link](https://rit.zoom.us/rec/share/k4iaKg0SAl6S5u5zbEPrknZaG35CQJ2SATAAhwF9TyuTY9x3GwGtl5-YZggQuINn.9F78q9RmTdzngzsy) |
 | 09/26 | [Classification: Regularized Linear Model](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) | [AG] Chap 5,6 |(Remote Class) |[Link 1](https://rit.zoom.us/rec/share/TZIfftzt7MYGbAma_xVXvLCZA9UsgCr-cAwSG21LY6GJ_gnQZtC-iFdae0jDUV7d.r_g1pAFOJ1MRBW3o) |
+| 09/28 | Walkthrough of Regression Models, Classification: Decision Trees, SVM| [AG] Chap 5,6,9 |  |  |
 |  | Classification: Decision Trees, SVM| [AG] Chap 9 |  |  |
 |  | Classification: Nearest Neighbors| [AG] Chap 7 | | |
 |  | Classification: Ensemble Learning| [AG] Chap 7,9 | |  |
