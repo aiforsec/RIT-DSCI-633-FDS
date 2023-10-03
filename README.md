@@ -11,7 +11,7 @@
 
 ## Office Hours
 
-- Teaching Assistant, Bharadwaj Sharma Kasturi's Office Hours: Tues 9:30 AM-10:30 AM and Thurs 9:30 AM-10:30 AM. For any questions, contact via Email: bk5953(AT)g(DOT)rit(DOT)edu. Or Slack. Join via Zoom: https://rit.zoom.us/j/94233732942 or meet in person at the Wallace Library.
+- Teaching Assistant, Bharadwaj Sharma Kasturi's Office Hours: Tues 9:30 AM-10:30 AM and Thurs 9:30 AM-10:30 AM. For any questions, contact via Email: bk5953(AT)g(DOT)rit(DOT)edu. Or Slack. Join via Zoom: https://rit.zoom.us/j/94233732942 or meet in person at the WAL-3470 Group Study Room.
 - Nidhi's Office Hours: Right after class on Tuesday/Thursday _until_ 9:45 am (Best Time). OR by appointment. Email: nidhi(DOT)rastogi(AT)rit(DOT)edu. Or Slack.
 
 ## Course Description
