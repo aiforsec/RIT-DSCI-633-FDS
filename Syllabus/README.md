@@ -23,10 +23,9 @@ Course taught in Fall '23.
 | 10/10 | No Lecture (Fall Break- No Classes) | |  | |
 | 10/12 | [Classification: Support Vector Machine](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx)| [AG] Chap 9 | HW 3 announced on mycourses. Due Date Monday, 10/23 11:59 pm |[Link 1](https://rit.zoom.us/rec/share/dDkzQ3fCW-SBldInoku5geD12LQNMlzpYjuyFpj8itViDtVqcRjAQfsVUwPOW1Zt.yncw92MLrYMjopjK) |
 | 10/17 | Project Assignment, Evaluation Criteria. Classification: Nearest Neighbors| [AG] Chap 7 |  | |
-|  | Classification: Ensemble Learning| [AG] Chap 7,9 | |  |
-|  | Clustering: K-Means|[AG] Chap 9 |  | |
-|  | Feature Engineering 1, | |  |  |
-|  |Feature Engineering 2 | |  |  |
+| 10/19 | Clustering: K-Means|[AG] Chap 9 |  | |
+| 10/24 | Feature Engineering 1, | |  |  |
+| 10/26 | Feature Engineering 2 | |  |  |
 | 10/31-01/09 |Hands-On Learning- FE and All Models combined| |  |  |
 |  | Dimensionality Reduction|[AG] Chap 8|    |  |
 |  | Classification: Random Forests | |  | |
