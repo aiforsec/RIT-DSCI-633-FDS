@@ -25,14 +25,15 @@ Course taught in Fall '23.
 | 10/17 | Project Assignment, Evaluation Criteria. Classification: Nearest Neighbors| [AG] Chap 7 |  | |
 |  | Classification: Ensemble Learning| [AG] Chap 7,9 | |  |
 |  | Clustering: K-Means|[AG] Chap 9 |  | |
-|  | Classification: Random Forests, | |  | |
 |  | Feature Engineering 1, | |  |  |
-| |Feature Engineering 2 | |  |  |
+|  |Feature Engineering 2 | |  |  |
+| 10/31-01/09 |Hands-On Learning- FE and All Models combined| |  |  |
 |  | Dimensionality Reduction|[AG] Chap 8|    |  |
+|  | Classification: Random Forests | |  | |
 |  |Semi-, Self-Supervised Learning| |  | |
-| | Reinforcement Learning| | |  |
+|  | Reinforcement Learning| | |  |
 |  | Artificial Neural Networks|[AG] Chap 10 | | |
-|  | Training DNNs- 1,2|[AG] Chap 11 |  | |
+|  | Training DNNs- 1,2|[AG] Chap 11 (Time Permitting) |  | |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
 | 11/28 | Training with TensorFlow | [AG] Chap 12,13 |   |  |
 | 11/30 | Project Presentation| 8 students| | |
