@@ -27,15 +27,13 @@ Course taught in Fall '23.
 | 10/24 | Feature Engineering 1, | |  |  |
 | 10/26 | Feature Engineering 2 | |  |  |
 | 10/31-01/09 |Hands-On Learning- FE and All Models combined| |  |  |
-|  | Dimensionality Reduction|[AG] Chap 8|    |  |
-|  | Classification: Random Forests | |  | |
-|  |Semi-, Self-Supervised Learning| |  | |
-|  | Reinforcement Learning| | |  |
-|  | Artificial Neural Networks|[AG] Chap 10 | | |
-|  | Training DNNs- 1,2|[AG] Chap 11 (Time Permitting) |  | |
+| 11/14 | Dimensionality Reduction|[AG] Chap 8|    |  |
+| 11/16 | Classification: Random Forests | |  | |
+| 11/21 |Semi-, Self-Supervised Learning| |  | |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
-| 11/28 | Training with TensorFlow | [AG] Chap 12,13 |   |  |
-| 11/30 | Project Presentation| 8 students| | |
-| 12/05 | Project Presentation| 8 students| | |
-| 12/07 | Project Presentation| 8 students| | |
+| 11/28 | Reinforcement Learning (Time Permitting) | | |  |
+| 11/30 | Project Presentation| 8 students | | |
+| 12/05 | Project Presentation| 8 students | | |
+| 12/07 | Project Presentation| 7 students | | |
+| 12/15 | Project Reports + Code Due | | |
 | 12/22 | Final Grades Due | |  | |
