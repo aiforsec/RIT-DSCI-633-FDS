@@ -21,7 +21,7 @@ Course taught in Fall '23.
 | 10/03 | [Classification: Decision Trees](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture06/Lec06.pptx)| [AG] Chap 5,6,9, [Class E.](https://colab.research.google.com/drive/12fmEdKVNSUVO5uQjW9TQGVphgANvVajC?usp=sharing) |  |[Link 1](https://rit.zoom.us/rec/share/F5VYDlSA1sva0f4hXDuVhGtBVjQfL3xLn3WtbYIGZ_4Y0PU4FkQdBC9mTn4vpm6e.4WypLwt-_KYFh6Qd)  |
 | 10/05 | [Classification: Support Vector Machine](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx)| [AG] Chap 9, [Class Ex.](https://colab.research.google.com/drive/1N9NKflosY-iOirDudUhZyxDYXUFGW12E?authuser=3#scrollTo=YZhPwe10TdRH) | |[Link 1](https://rit.zoom.us/rec/share/6qmdjPDNAV7VkS_KD2t4v2eE9xQmRq293W9yotYhuVtxfJyFAEsi0FYgf2iwpt-I.m3W87ZvljZhx70Mh) |
 | 10/10 | No Lecture (Fall Break- No Classes) | |  | |
-| 10/12 | [Classification: Support Vector Machine](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx)| [AG] Chap 9 | HW 3 announced on mycourses. Due Date Monday, 10/23 11:59 pm |[Link 1](https://rit.zoom.us/rec/share/dDkzQ3fCW-SBldInoku5geD12LQNMlzpYjuyFpj8itViDtVqcRjAQfsVUwPOW1Zt.yncw92MLrYMjopjK) |
+| 10/12 | [Classification: Support Vector Machine](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx)| [AG] Chap 9 | HW 3 announced on mycourses. Due Date Monday, 10/25 11:59 pm |[Link 1](https://rit.zoom.us/rec/share/dDkzQ3fCW-SBldInoku5geD12LQNMlzpYjuyFpj8itViDtVqcRjAQfsVUwPOW1Zt.yncw92MLrYMjopjK) |
 | 10/17 | Project Assignment, Evaluation Criteria. Classification: Nearest Neighbors| [AG] Chap 7 |  | |
 | 10/19 | Clustering: K-Means|[AG] Chap 9 |  | |
 | 10/24 | Feature Engineering 1, | |  |  |
