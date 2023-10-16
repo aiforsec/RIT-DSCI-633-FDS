@@ -27,7 +27,6 @@ Course taught in Fall '23.
 |  | Clustering: K-Means|[AG] Chap 9 |  | |
 |  | Classification: Random Forests, | |  | |
 |  | Feature Engineering 1, | |  |  |
-| 10/24 | No Lecture | |  | |
 | |Feature Engineering 2 | |  |  |
 |  | Dimensionality Reduction|[AG] Chap 8|    |  |
 |  |Semi-, Self-Supervised Learning| |  | |
