@@ -26,7 +26,7 @@ Course taught in Fall '23.
 | 10/19 | Clustering: K-Means|[AG] Chap 9 |  | |
 | 10/24 | Feature Engineering 1 | |  |  |
 | 10/26 | Feature Engineering 2 | |  |  |
-| 10/31-01/09 |Hands-On Learning- FE and All Models combined| |  |  |
+| 10/31-11/09 |Hands-On Learning- FE and All Models combined| |  |  |
 | 11/14 | Dimensionality Reduction|[AG] Chap 8|    |  |
 | 11/16 | Classification: Random Forests | |  | |
 | 11/21 |Semi-, Self-Supervised Learning| |  | |
