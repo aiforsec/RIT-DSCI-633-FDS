@@ -23,7 +23,7 @@ Course taught in Fall '23.
 | 10/10 | No Lecture (Fall Break- No Classes) | |  | |
 | 10/12 | [Classification: Support Vector Machine](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx)| [AG] Chap 9 | HW 3 announced on mycourses. Due Date Monday, 10/25 11:59 pm |[Link 1](https://rit.zoom.us/rec/share/dDkzQ3fCW-SBldInoku5geD12LQNMlzpYjuyFpj8itViDtVqcRjAQfsVUwPOW1Zt.yncw92MLrYMjopjK) |
 | 10/17 | [Project Assignment, Evaluation Criteria](https://github.com/aiforsec/RIT-DSCI-633-FDS/tree/main/Syllabus/ProjectFiles). [Classification: Nearest Neighbors](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture08/Lec08.pptx)| [AG] Chap 7 | [Project Presentation SignUp](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit?usp=sharing)|[Project Desc Recording](https://rit.zoom.us/rec/share/ifT32hsnJW6BqjZidbnB1VMpXPLu6R8I7N8Nmiy3JNqK_o6FF4s28WwO8-IsuM07.Com1i4GLxidInkql?startTime=1697544443000), [Class Recording](https://rit.zoom.us/rec/share/ifT32hsnJW6BqjZidbnB1VMpXPLu6R8I7N8Nmiy3JNqK_o6FF4s28WwO8-IsuM07.Com1i4GLxidInkql?startTime=1697546533000) |
-| 10/19 | Clustering: K-Means|[AG] Chap 9 |  | |
+| 10/19 | Clustering: K-Means|[AG] Chap 9 |  | [Link 1](https://rit.zoom.us/rec/share/qHjGCW3wpdyhQJFEr7MbRqfYZ6gIK7Fb84xjSX-SRPf2X7Kq3M-nCCIgYOD2ELwi.yiRRbkd91LZecEtH?startTime=1697716979000)|
 | 10/24 | Feature Engineering 1 | |  |  |
 | 10/26 | Feature Engineering 2 | |  |  |
 | 10/31-11/09 |Hands-On Learning- FE and All Models combined| |  |  |
