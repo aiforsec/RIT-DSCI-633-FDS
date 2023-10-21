@@ -32,7 +32,7 @@ Course taught in Fall '23.
 | 11/21 |Semi-, Self-Supervised Learning| |  | |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
 | 11/28 | Reinforcement Learning (Time Permitting) | | |  |
-| 11/30 | Project Presentation| 8 students | | |
+| 11/30 | Project Presentation| 8 students | | [Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|
 | 12/05 | Project Presentation| 8 students | | |
 | 12/07 | Project Presentation| 7 students | | |
 | 12/15 | Project Reports + Code Due | | |
