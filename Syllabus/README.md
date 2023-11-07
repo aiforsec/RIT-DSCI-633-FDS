@@ -26,8 +26,8 @@ Course taught in Fall '23.
 | 10/19 | Clustering: K-Means|[AG] Chap 9 |  | [Link 1](https://rit.zoom.us/rec/share/qHjGCW3wpdyhQJFEr7MbRqfYZ6gIK7Fb84xjSX-SRPf2X7Kq3M-nCCIgYOD2ELwi.yiRRbkd91LZecEtH?startTime=1697716979000), [Link 2](https://rit.zoom.us/rec/share/PKMdBbmq3F6_-lSN4zLfc0Y7NXCH3tjNOXGyO3pNWQzCqX0Qfkb_EZPMmQek_O3o.2k8Dl-dTpcxHcsps?startTime=1698321668000)|
 | 10/26 | [Feature Engineering 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture10/Lec10.pptx) | |  |[Link 1](https://rit.zoom.us/rec/share/PKMdBbmq3F6_-lSN4zLfc0Y7NXCH3tjNOXGyO3pNWQzCqX0Qfkb_EZPMmQek_O3o.2k8Dl-dTpcxHcsps?startTime=1698324577000) |
 | 10/31 | [Feature Engineering 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx) | |  | [Link1](https://rit.zoom.us/rec/play/AbPZwa-vntFH-V9wfXkG1AhWqKyWrXdoH_gANxVB7yIAjuX9ZqmpVHKfeq-C-LqxPrVH7ae5KAeoEjXM.-7qD7Iljn1wwl-Jq?canPlayFromShare=true&from=share_recording_detail&startTime=1698753207000&componentName=rec-play&originRequestUrl=https%3A%2F%2Frit.zoom.us%2Frec%2Fshare%2FlJjDqFrQ7qZxPrgfbOyvl08_6wFpP3TCgsikOWK4aO-CrzcndyDHF4re4wpv0CzT.AXTw7L_G7PcIMoKr%3FstartTime%3D1698753207000) |
-| 11/02 | Hands-On Learning- FE| |  | [Link1]() |
-| 11/07 & 11/09 |Hands-On Learning- All Models Pipeline| |  |[Link1]()  |
+| 11/02 | Hands-On Learning- FE| |  | [Link1](https://rit.zoom.us/rec/share/KyWvbD1ki500BOvLsG9Ut9ngSHrU44lh7R0NHZw5YkNJAy4KKE8c_gp1XTaHseyv.YpJKR9vTfgT0kmuW) |
+| 11/07 & 11/09 |Hands-On Learning- All Models Pipeline| |  |[Link1](https://rit.zoom.us/rec/share/FxU1wAZQTalUrryOpxkXtHLhnK7pT6djafkH2JPJSSrw5tfLsgEQK-SQ9YnCTNxM.FtPQ5rpDzMAiRkBr)  |
 | 11/14 | Dimensionality Reduction|[AG] Chap 8|    |  |
 | 11/16 | Classification: Random Forests | |  | |
 | 11/21 |Semi-, Self-Supervised Learning| |  | |
