@@ -29,7 +29,7 @@ Course taught in Fall '23.
 | 11/02 | Hands-On Learning- FE| |  | [Link1](https://rit.zoom.us/rec/share/KyWvbD1ki500BOvLsG9Ut9ngSHrU44lh7R0NHZw5YkNJAy4KKE8c_gp1XTaHseyv.YpJKR9vTfgT0kmuW) |
 | 11/07 & 11/09 |Hands-On Learning- All Models Pipeline| |  |[Link1](https://rit.zoom.us/rec/share/FxU1wAZQTalUrryOpxkXtHLhnK7pT6djafkH2JPJSSrw5tfLsgEQK-SQ9YnCTNxM.FtPQ5rpDzMAiRkBr)  |
 | 11/14 | Dimensionality Reduction|[AG] Chap 8|   | [Link1](https://rit.zoom.us/rec/share/neG4U85yNthVfCERuFrzfVZzXFmmEWv9rtgF62XsB-0JFnTSk65MEVDUXsQzaIVH.Cm6UMZTEagIe3a4N?startTime=1699966910000) |
-| 11/16 | Dimensionality Reduction|[AG] Chap 8| |  |[Link](https://rit.zoom.us/rec/share/JIzFNGfKhf5LOrqNfQtjWysoYgA9A9ROnhGh6RRUlKPRd5beYae4Mv63Gol8sFkf.-ZKh_qZ50AlhAiU0) |
+| 11/16 | Dimensionality Reduction|[AG] Chap 8| | [Link](https://rit.zoom.us/rec/share/JIzFNGfKhf5LOrqNfQtjWysoYgA9A9ROnhGh6RRUlKPRd5beYae4Mv63Gol8sFkf.-ZKh_qZ50AlhAiU0) |
 | 11/21 |Classification: Random Forests| |  | |
 |  |Semi-, Self-Supervised Learning| |  | |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
