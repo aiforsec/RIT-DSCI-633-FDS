@@ -28,9 +28,10 @@ Course taught in Fall '23.
 | 10/31 | [Feature Engineering 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx) | |  | [Link1](https://rit.zoom.us/rec/play/AbPZwa-vntFH-V9wfXkG1AhWqKyWrXdoH_gANxVB7yIAjuX9ZqmpVHKfeq-C-LqxPrVH7ae5KAeoEjXM.-7qD7Iljn1wwl-Jq?canPlayFromShare=true&from=share_recording_detail&startTime=1698753207000&componentName=rec-play&originRequestUrl=https%3A%2F%2Frit.zoom.us%2Frec%2Fshare%2FlJjDqFrQ7qZxPrgfbOyvl08_6wFpP3TCgsikOWK4aO-CrzcndyDHF4re4wpv0CzT.AXTw7L_G7PcIMoKr%3FstartTime%3D1698753207000) |
 | 11/02 | Hands-On Learning- FE| |  | [Link1](https://rit.zoom.us/rec/share/KyWvbD1ki500BOvLsG9Ut9ngSHrU44lh7R0NHZw5YkNJAy4KKE8c_gp1XTaHseyv.YpJKR9vTfgT0kmuW) |
 | 11/07 & 11/09 |Hands-On Learning- All Models Pipeline| |  |[Link1](https://rit.zoom.us/rec/share/FxU1wAZQTalUrryOpxkXtHLhnK7pT6djafkH2JPJSSrw5tfLsgEQK-SQ9YnCTNxM.FtPQ5rpDzMAiRkBr)  |
-| 11/14 | Dimensionality Reduction|[AG] Chap 8|   | [Link1](https://rit.zoom.us/rec/share/neG4U85yNthVfCERuFrzfVZzXFmmEWv9rtgF62XsB-0JFnTSk65MEVDUXsQzaIVH.Cm6UMZTEagIe3a4N?startTime=1699966910000) |
-| 11/16 | Classification: Random Forests | |  | |
-| 11/21 |Semi-, Self-Supervised Learning| |  | |
+| 11/14 | [Dimensionality Reduction](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx)|[AG] Chap 8|   | [Link1](https://rit.zoom.us/rec/share/neG4U85yNthVfCERuFrzfVZzXFmmEWv9rtgF62XsB-0JFnTSk65MEVDUXsQzaIVH.Cm6UMZTEagIe3a4N?startTime=1699966910000) |
+| 11/16 | [Dimensionality Reduction](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx)|[AG] Chap 8| | [Link](https://rit.zoom.us/rec/share/JIzFNGfKhf5LOrqNfQtjWysoYgA9A9ROnhGh6RRUlKPRd5beYae4Mv63Gol8sFkf.-ZKh_qZ50AlhAiU0) |
+| 11/21 | [Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx)| |  | |
+|  |Classification: Random Forests| |  | |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
 | 11/28 | Reinforcement Learning (Time Permitting) | | |  |
 | 11/30 | Project Presentation| 8 students | | [Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|
