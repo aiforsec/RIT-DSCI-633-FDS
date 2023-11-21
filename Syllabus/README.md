@@ -30,8 +30,8 @@ Course taught in Fall '23.
 | 11/07 & 11/09 |Hands-On Learning- All Models Pipeline| |  |[Link1](https://rit.zoom.us/rec/share/FxU1wAZQTalUrryOpxkXtHLhnK7pT6djafkH2JPJSSrw5tfLsgEQK-SQ9YnCTNxM.FtPQ5rpDzMAiRkBr)  |
 | 11/14 | Dimensionality Reduction|[AG] Chap 8|   | [Link1](https://rit.zoom.us/rec/share/neG4U85yNthVfCERuFrzfVZzXFmmEWv9rtgF62XsB-0JFnTSk65MEVDUXsQzaIVH.Cm6UMZTEagIe3a4N?startTime=1699966910000) |
 | 11/16 | Dimensionality Reduction|[AG] Chap 8| | [Link](https://rit.zoom.us/rec/share/JIzFNGfKhf5LOrqNfQtjWysoYgA9A9ROnhGh6RRUlKPRd5beYae4Mv63Gol8sFkf.-ZKh_qZ50AlhAiU0) |
-| 11/21 |Classification: Random Forests| |  | |
-|  |Semi-, Self-Supervised Learning| |  | |
+| 11/21 | Semi-, Self-Supervised Learning| |  | |
+|  |Classification: Random Forests| |  | |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
 | 11/28 | Reinforcement Learning (Time Permitting) | | |  |
 | 11/30 | Project Presentation| 8 students | | [Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|
