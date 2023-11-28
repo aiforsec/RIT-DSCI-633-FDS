@@ -32,7 +32,7 @@ Course taught in Fall '23.
 | 11/16 | [Dimensionality Reduction](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx)|[AG] Chap 8| | [Link](https://rit.zoom.us/rec/share/JIzFNGfKhf5LOrqNfQtjWysoYgA9A9ROnhGh6RRUlKPRd5beYae4Mv63Gol8sFkf.-ZKh_qZ50AlhAiU0) |
 | 11/21 | [Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx)| |  |[Link](https://rit.zoom.us/rec/share/bXYQXFQxlfE06i4bKcvuc0ILbcJrjWUavDwS3CeSO73S8w8EeAeQ1crj8FjDuceP.dRZGvtUT0sAQLnAS) |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
-| 11/28 | [Classification: Random Forests](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx) | | |[Link](https://rit.zoom.us/rec/share/5NXEULLdW80m_T64C55N-8ysGpLN3R52LJ1nZRPkmgxwFcVM4P1ACi5W7kFQF-7F.LvRUm_kpFEloycRe) |
+| 11/28 | [Classification: Ensemble Learning/Random Forests](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx) | | |[Link](https://rit.zoom.us/rec/share/5NXEULLdW80m_T64C55N-8ysGpLN3R52LJ1nZRPkmgxwFcVM4P1ACi5W7kFQF-7F.LvRUm_kpFEloycRe) |
 | 11/30 | Project Presentation| 7 students | | [Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|
 | 12/05 | Project Presentation| 8 students | | |
 | 12/07 | Project Presentation| 8 students | | |
