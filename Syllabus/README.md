@@ -33,7 +33,7 @@ Course taught in Fall '23.
 | 11/21 | [Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx)| |  |[Link](https://rit.zoom.us/rec/share/bXYQXFQxlfE06i4bKcvuc0ILbcJrjWUavDwS3CeSO73S8w8EeAeQ1crj8FjDuceP.dRZGvtUT0sAQLnAS) |
 | 11/23 | No Lecture (Thanksgiving Holiday)| | | |
 | 11/28 | [Classification: Ensemble Learning/Random Forests](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx) | | |[Link](https://rit.zoom.us/rec/share/5NXEULLdW80m_T64C55N-8ysGpLN3R52LJ1nZRPkmgxwFcVM4P1ACi5W7kFQF-7F.LvRUm_kpFEloycRe) |
-| 11/30 | Project Presentation| 7 students | |[Link](https://rit.zoom.us/rec/share/QO9VZw1FsX4KOyogIzeuva0wuWV8IoUTAWj-9WXnkW1Pdhux91q1CV8rzXUGsaSR.z5cXIPgCpkDb5YLP), [Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|
+| 11/30 | Project Presentation| 7 students |[Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|[Link](https://rit.zoom.us/rec/share/QO9VZw1FsX4KOyogIzeuva0wuWV8IoUTAWj-9WXnkW1Pdhux91q1CV8rzXUGsaSR.z5cXIPgCpkDb5YLP)|
 | 12/05 | Project Presentation| 8 students | | |
 | 12/07 | Project Presentation| 8 students | | |
 | 12/15 | Project Reports + Code Due | | |
