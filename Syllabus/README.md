@@ -35,6 +35,6 @@ Course taught in Fall '23.
 | 11/28 | [Classification: Ensemble Learning/Random Forests](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture13/Lec13.pptx) | | |[Link](https://rit.zoom.us/rec/share/5NXEULLdW80m_T64C55N-8ysGpLN3R52LJ1nZRPkmgxwFcVM4P1ACi5W7kFQF-7F.LvRUm_kpFEloycRe) |
 | 11/30 | Project Presentation| 7 students |[Proj Pres. Signup sheet](https://docs.google.com/spreadsheets/d/1gVTZzcjhA27w_CaHj6_YT2-7UaysRjj7dam5PLRNPI8/edit#gid=0)|[Link](https://rit.zoom.us/rec/share/QO9VZw1FsX4KOyogIzeuva0wuWV8IoUTAWj-9WXnkW1Pdhux91q1CV8rzXUGsaSR.z5cXIPgCpkDb5YLP)|
 | 12/05 | Project Presentation| 8 students | |[Link](https://rit.zoom.us/rec/share/jfQPpifw-kU_seDoX7ETjoUfWRI0r9-rSoViLQE6MKbWw9l9iWxxPIgoZizIYHbf.hXDb9UOLBvg78JAs) |
-| 12/07 | Project Presentation| 8 students | | |
+| 12/07 | Project Presentation| 8 students | |[Link](https://rit.zoom.us/rec/share/HY9GG2nLymF4n_vxpm-1v7LaCYMlPrbr1wyeD9KJH0pnjYVv3yI_2iCi-P_qRc-T.Eynf6IB9E2gcB-tr?startTime=1701954031000)|
 | 12/15 | Project Reports + Code Due | | |
 | 12/22 | Final Grades Due | |  | |
